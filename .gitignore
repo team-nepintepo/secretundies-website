@@ -1,0 +1,21 @@
+# Sicherheit
+/.env
+/wp-config.php
+/.htaccess
+
+# Temporär
+/cache/
+/tmp/
+/updraft/
+/backups/
+
+# Logs
+*.log
+/wflogs/
+
+# Uploads
+/uploads/
+
+# Inklusion
+!plugins/
+!themes/
